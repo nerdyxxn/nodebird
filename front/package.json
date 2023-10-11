@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next"
   },
-  "author": "",
+  "author": "Nerdyxxn",
   "license": "ISC",
   "dependencies": {
     "next": "^13.5.4"
